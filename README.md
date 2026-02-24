@@ -50,4 +50,4 @@ response = json.loads(response_bytes.decode("utf-8"))
 
 # Diagram
 
-![Diagram](Screenshot(118),png)
+![Diagram](Diagram,png)
