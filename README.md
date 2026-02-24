@@ -50,4 +50,5 @@ response = json.loads(response_bytes.decode("utf-8"))
 
 # Diagram
 
-![Diagram](Diagram,png)
+<img width="843" height="864" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/264e9ebc-03ea-4631-b17f-a98348ff986f" />
+
